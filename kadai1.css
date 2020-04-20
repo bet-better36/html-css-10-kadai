@@ -4,15 +4,11 @@
   box-sizing: border-box;
 }
 
-
-
 .clearfix::after {
   content: "";
   display: inline-block;
   clear: both;
 }
-
-
 
 main{
   width: 960px;
@@ -80,7 +76,7 @@ main{
   padding: 10px;
   position: relative;
   left: 10%;
-  border: 1px solid red;
+  border: 1px solid blue;
 }
 
 
